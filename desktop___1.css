@@ -1,0 +1,736 @@
+/*
+	@name desktop___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 2900px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desktop___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 2900px;
+}
+
+#_bg__desktop___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 2900px;
+	background:rgba(39,89,45,1);
+}
+
+#navbar {
+	top: 118px;
+	left: 188px;
+	width: 1058px;
+	height: 32px;
+}
+
+#_bg__navbar_ek1 {
+	top: -118px;
+	left: -188px;
+	width: 1058px;
+	height: 32px;
+}
+
+
+#aseef_ali_hasan {
+	top: 0px;
+	left: -3px;
+	width: 138px;
+	height: 37.8px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 32px;
+	margin-top: -4.6666666666667px;
+	height: 55.8px;
+	color:#E5E5E5;
+}
+
+
+#about {
+	top: 0px;
+	left: 665px;
+	width: 55px;
+	height: 37.8px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 18px;
+	text-align: center;
+	line-height: 32px;
+	margin-top: -4.6666666666667px;
+	height: 55.8px;
+	color:#E5E5E5;
+}
+
+
+#blog {
+	top: 0px;
+	left: 898px;
+	width: 43px;
+	height: 37.8px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 18px;
+	text-align: center;
+	line-height: 32px;
+	margin-top: -4.6666666666667px;
+	height: 55.8px;
+	color:#E5E5E5;
+}
+
+
+#contact {
+	top: 0px;
+	left: 994px;
+	width: 68px;
+	height: 37.8px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 18px;
+	text-align: center;
+	line-height: 32px;
+	margin-top: -4.6666666666667px;
+	height: 55.8px;
+	color:#E5E5E5;
+}
+
+
+#projects {
+	top: 0px;
+	left: 773px;
+	width: 72px;
+	height: 37.8px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 18px;
+	text-align: center;
+	line-height: 32px;
+	margin-top: -4.6666666666667px;
+	height: 55.8px;
+	color:#E5E5E5;
+}
+
+
+#image_1 {
+	top: 386px;
+	left: 826px;
+	width: 366px;
+	height: 239px;
+}
+
+
+#about_me_my_name_is_aseef_ali_hasan__i_am_a_first_year_cs___stats_student_at_uoft_i_am_super_duper_cool_and_i_am_looking_for_internships____currently_a_web_developer_at_coubon_and_career_prep_fellow_at_uber_check_out_my_resume__github__linkedin {
+	top: 337px;
+	left: 201px;
+	width: 586.8px;
+	height: 305.8px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 32px;
+	margin-top: -4.6666666666667px;
+	height: 323.8px;
+	color:#E5E5E5;
+}
+
+#latest_work_section {
+	top: 737px;
+	left: 256px;
+	width: 927px;
+	height: 1087px;
+}
+
+#_bg__latest_work_section_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 927px;
+	height: 1087px;
+	background:rgba(235,235,235,0);
+}
+
+
+#my_latest_work {
+	top: 20px;
+	left: 398.5px;
+	width: 128.2px;
+	height: 51.2px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 42px;
+	color:#E5E5E5;
+}
+
+#work_cards {
+	top: 122px;
+	left: -76.5px;
+	width: 1080px;
+	height: 874px;
+}
+
+#_bg__work_cards_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1080px;
+	height: 874px;
+}
+
+#stripe_1 {
+	top: 0px;
+	left: 191.25px;
+	width: 697.5px;
+	height: 407px;
+}
+
+#_bg__stripe_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 697.5px;
+	height: 407px;
+	-ms-border-radius: 40px;
+	-o-border-radius: 40px;
+	-moz-border-radius: 40px;
+	-webkit-border-radius: 40px;
+	border-radius: 40px;
+
+}
+
+#work_card {
+	top: 0px;
+	left: 0px;
+	width: 315px;
+	height: 407px;
+}
+
+#_bg__work_card_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 315px;
+	height: 407px;
+
+}
+
+
+#image {
+	top: 0px;
+	left: 0px;
+	width: 315px;
+	height: 315px;
+}
+
+#headline___subhead {
+	top: 340px;
+	left: 0px;
+	width: 315px;
+	height: 94px;
+}
+
+#_bg__headline___subhead_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 315px;
+	height: 94px;
+
+}
+
+
+#project_title {
+	top: 0px;
+	left: 0px;
+	width: 332px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 30px;
+	color:#E5E5E5;
+}
+
+
+#ui__art_drection {
+	top: 40px;
+	left: 0px;
+	width: 330.7px;
+	height: 58.7px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 17px;
+	text-align: left;
+	line-height: 27px;
+	margin-top: -3.3333333333333px;
+	height: 75.7px;
+	color:#E5E5E5;
+}
+
+#work_card_ek2 {
+	top: 0px;
+	left: 382.5px;
+	width: 315px;
+	height: 407px;
+}
+
+#_bg__work_card_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 315px;
+	height: 407px;
+
+}
+
+
+#image_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 315px;
+	height: 315px;
+}
+
+#headline___subhead_ek2 {
+	top: 340px;
+	left: 0px;
+	width: 315px;
+	height: 67px;
+}
+
+#_bg__headline___subhead_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 315px;
+	height: 67px;
+
+}
+
+
+#project_title_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 332px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Epilogue;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 30px;
+	color:#E5E5E5;
+}
+
+
+#ui__art_drection_ek1 {
+	top: 40px;
+	left: 0px;
+	width: 330.7px;
+	height: 31.7px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 17px;
+	text-align: left;
+	line-height: 27px;
+	margin-top: -3.3333333333333px;
+	height: 48.7px;
+	color:#E5E5E5;
+}
+
+#stripe_2 {
+	top: 467px;
+	left: 191.25px;
+	width: 697.5px;
+	height: 407px;
+}
+
+#_bg__stripe_2_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 697.5px;
+	height: 407px;
+
+}
+
+#work_card_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 315px;
+	height: 407px;
+}
+
+#_bg__work_card_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 315px;
+	height: 407px;
+}
+
+
+#image_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 315px;
+	height: 315px;
+}
+
+#headline___subhead_ek4 {
+	top: 340px;
+	left: 0px;
+	width: 315px;
+	height: 67px;
+}
+
+#_bg__headline___subhead_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 315px;
+	height: 67px;
+
+}
+
+
+#project_title_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 332px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 30px;
+	color:#E5E5E5;
+}
+
+
+#ui__art_drection_ek2 {
+	top: 40px;
+	left: 0px;
+	width: 330.7px;
+	height: 31.7px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 17px;
+	text-align: left;
+	line-height: 27px;
+	margin-top: -3.3333333333333px;
+	height: 48.7px;
+	color:#E5E5E5;
+}
+
+#work_card_ek6 {
+	top: 0px;
+	left: 382.5px;
+	width: 315px;
+	height: 407px;
+}
+
+#_bg__work_card_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 315px;
+	height: 407px;
+
+}
+
+
+#image_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 315px;
+	height: 315px;
+}
+
+#headline___subhead_ek6 {
+	top: 340px;
+	left: 0px;
+	width: 315px;
+	height: 67px;
+}
+
+#_bg__headline___subhead_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 315px;
+	height: 67px;
+
+}
+
+
+#project_title_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 332px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 30px;
+	color:#E5E5E5;
+}
+
+
+#ui__art_drection_ek3 {
+	top: 40px;
+	left: 0px;
+	width: 330.7px;
+	height: 31.7px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 17px;
+	text-align: left;
+	line-height: 27px;
+	margin-top: -3.3333333333333px;
+	height: 48.7px;
+	color:#E5E5E5;
+}
+
+#techstack {
+	top: 1815px;
+	left: 187px;
+	width: 1065px;
+	height: 183px;
+}
+
+#_bg__techstack_ek1 {
+	top: -1815px;
+	left: -187px;
+	width: 1065px;
+	height: 183px;
+
+}
+
+
+#my_tech_stack_python__java__sql__html__css__javascript__typescript_node_js__express_js__angularjs__pandas__plotly__numpy__scipy__scikit_learn__tkinter__joptionpane__django_firebase__git__github__vs_code__jupyter__linux__windows__mac_os__ms_office__excel__vba__pivot_tables___power_bi {
+	top: -9px;
+	left: 18px;
+	width: 1057.8px;
+	height: 188.8px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 32px;
+	margin-top: -4.6666666666667px;
+	height: 206.8px;
+	color:#E5E5E5;
+}
+
+
+#rectangle_3810 {
+	opacity:0.5;
+	top: 57px;
+	left: 0px;
+	width: 1065px;
+	height: 112px;
+	-ms-border-radius: 37px;
+	-o-border-radius: 37px;
+	-moz-border-radius: 37px;
+	-webkit-border-radius: 37px;
+	border-radius: 37px;
+	background:rgba(28.86,56.31,32.15,0.5);
+}
+
+#links {
+	top: 2797px;
+	left: 1098px;
+	width: 160px;
+	height: 67.26px;
+}
+
+#_bg__links_ek1 {
+	top: -2797px;
+	left: -1098px;
+	width: 160px;
+	height: 67.26px;
+
+}
+
+
+#image_2 {
+	top: 0px;
+	left: 0px;
+	width: 66.55px;
+	height: 67.26px;
+}
+
+
+#image_3 {
+	top: 1px;
+	left: 93px;
+	width: 66.55px;
+	height: 66.55px;
+}
+
+#blog_ek1 {
+	top: 2059px;
+	left: 200px;
+	width: 1047px;
+	height: 499px;
+}
+
+#_bg__blog_ek2 {
+	top: -2059px;
+	left: -200px;
+	width: 1047px;
+	height: 499px;
+
+}
+
+
+#blog_i_like_movies__thinking_about_things__and_sharing_my_thoughts__so_this_is_where_i_share_that_ {
+	top: -9px;
+	left: 5px;
+	width: 1050.8px;
+	height: 286.8px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 18px;
+	text-align: left;
+	line-height: 32px;
+	margin-top: -4.6666666666667px;
+	height: 304.8px;
+	color:#E5E5E5;
+}
+
+
+#image_5 {
+	top: 122px;
+	left: 552px;
+	width: 495px;
+	height: 279px;
+}
+
+
+#why_her__2013__is_the_best_movie_ever {
+	top: 425px;
+	left: 18px;
+	width: 391px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 30px;
+	color:#E5E5E5;
+}
+
+
+#yeah_i_said_it__i_make_the_rules {
+	top: 465px;
+	left: 18px;
+	width: 330.7px;
+	height: 31.7px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 17px;
+	text-align: left;
+	line-height: 27px;
+	margin-top: -3.3333333333333px;
+	height: 48.7px;
+	color:#E5E5E5;
+}
+
+
+#why_its_really_hard_to_get_an_internship_now {
+	top: 432px;
+	left: 553px;
+	width: 442px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 30px;
+	color:#E5E5E5;
+}
+
+
+#i_haven_t_gotten_one_yet___ {
+	top: 472px;
+	left: 553px;
+	width: 330.7px;
+	height: 31.7px;
+	overflow: hidden;
+	font-family: Outfit;
+	font-size: 17px;
+	text-align: left;
+	line-height: 27px;
+	margin-top: -3.3333333333333px;
+	height: 48.7px;
+	color:#E5E5E5;
+}
+
+
+#image_4 {
+	top: 124px;
+	left: 0px;
+	width: 495px;
+	height: 279px;
+}
+
+
+#ellipse_693 {
+	top: 608px;
+	left: 1247px;
+	width: 808px;
+	height: 650px;
+	-ms-border-radius: 404px / 325px;
+	-o-border-radius: 404px / 325px;
+	-moz-border-radius: 404px / 325px;
+	-webkit-border-radius: 404px / 325px;
+	border-radius: 404px / 325px;
+	background:rgba(244,199,106,1);
+}
+
+
+#ellipse_695 {
+	top: 2715px;
+	left: 1px;
+	width: 808px;
+	height: 650px;
+	-ms-border-radius: 404px / 325px;
+	-o-border-radius: 404px / 325px;
+	-moz-border-radius: 404px / 325px;
+	-webkit-border-radius: 404px / 325px;
+	border-radius: 404px / 325px;
+	background:rgba(224,150,35,1);
+}
+
+
+#ellipse_694 {
+	top: -453px;
+	left: 129px;
+	width: 808px;
+	height: 650px;
+	-ms-border-radius: 404px / 325px;
+	-o-border-radius: 404px / 325px;
+	-moz-border-radius: 404px / 325px;
+	-webkit-border-radius: 404px / 325px;
+	border-radius: 404px / 325px;
+	background:rgba(255,227,162,1);
+}
+
+
+
+/* Add your custom CSS here */
