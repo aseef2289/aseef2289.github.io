@@ -12,7 +12,7 @@ title                    : "Aseef Ali Hasan"
 title_separator          : "-"
 name                     : &name "Aseef Ali Hasan"
 description              : &description "hi :)"
-url                      : "https://aseef2289.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aseef2289.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aseef2289/aseef2289.github.io"
 
@@ -21,7 +21,7 @@ repository               : "aseef2289/aseef2289.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pfp49.png"
+  avatar           : "images/pfp49.png"
   name             : "Aseef Ali Hasan"
   pronouns         : # example: "she/her"  
   bio              : "SWE, DS and ML enthusiast 😎"
@@ -32,10 +32,10 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : # "http://orcid.org/yourorcidurl"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
