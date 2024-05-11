@@ -21,7 +21,7 @@ repository               : "aseef2289/aseef2289.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/pfp49.png"
+  avatar           : "pfp49.jpg"
   name             : "Aseef Ali Hasan"
   pronouns         : # example: "she/her"  
   bio              : "SWE, DS and ML enthusiast 😎"
