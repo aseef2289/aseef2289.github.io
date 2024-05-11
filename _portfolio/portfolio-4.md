@@ -1,5 +1,5 @@
 ---
-title: "[University Application Helper](https://github.com/aseef2289/university-application-helper)"
+title: "University Application Helper"
 excerpt: "OUAC but better! <br/><img src='/images/proj4.jpg'>"
 collection: portfolio
 ---
@@ -11,3 +11,5 @@ Utilizing Java to create a program that helps users apply for top University pro
 Collected user input of their coursework and grades through JOptionPane GUI (Graphical User Interface)
 
 The program determines if they are eligible to apply to the university and program that they chose by using test cases.
+
+[Link](https://github.com/aseef2289/university-application-helper)

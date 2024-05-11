@@ -1,9 +1,8 @@
 ---
-title: "[UNICEF Machine Learning Conflict Prediction](https://github.com/aseef2289/ml-conflict-prediction)"
-excerpt: "Multiple linear regression model powered by XGBoost, FFNN and Transformer<br/><img src='/images/proj1.png'>"
+title: "UNICEF Machine Learning Conflict Prediction"
+excerpt: "Multiple linear regression model powered by XGBoost, FFNN and Transformer<br/><img src='/images/proj1.jpg'>"
 collection: portfolio
 ---
-
 
 Tech Stack: Python, Pandas, Plotly, NumPy, SciPy, Scikit-Learn
 
@@ -21,3 +20,5 @@ Created a new model for UNICEF with 88% accuracy that minimizes overfitting, acc
 
 Assessed ethical implications relevant to the current efforts of UNICEF to minimize global conflict and also protect the global
 security and privacy of people from data collection threats.
+
+[Link](https://github.com/aseef2289/ml-conflict-prediction)
