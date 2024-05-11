@@ -6,8 +6,6 @@ collection: portfolio
 
 Tech Stack: Python, Pandas, Plotly, NumPy, SciPy, Scikit-Learn
 
-Team Members: Hilary, Lamees, Aseef, Calvin, Akbar
-
 A group project where I worked with data from UNICEF and Dr. Schwartz using statistical methods like hypothesis testing, correlation estimation, linear
 regression, classification to predict conflict worldwide and assess the machine learning models, (XGBoost, FFNN and Transformer).
 
