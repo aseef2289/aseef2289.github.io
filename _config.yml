@@ -12,7 +12,7 @@ title                    : "Aseef Ali Hasan"
 title_separator          : "-"
 name                     : &name "Aseef Ali Hasan"
 description              : &description "hi :)"
-url                      : https://aseef2289.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://aseef2289.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aseef2289/aseef2289.github.io"
 
