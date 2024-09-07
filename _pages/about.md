@@ -16,7 +16,7 @@ redirect_from:
 
 # Relevant Experience
 
-## 🍁 Software Engineer Intern @ Communications Security Establishment, Canada
+## 🍁 Software Engineer Intern @ Government of Canada, Department of National Defence
 ### September 2024 - December 2024
 I haven't started yet!
 
