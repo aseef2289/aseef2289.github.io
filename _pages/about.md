@@ -24,7 +24,7 @@ Tech Stack: Python, Pulumi, Terraform, Ansible, Azure, Java, Spring Boot
 
 ## ✨ Undergraduate Research Assistant @ UofT Dept. of Physical and Environmental Sciences
 ### May 2024 - August 2024
-As an undergraduate research assistant I work under Prof. Kristen Menou on model fine-tuning in his AI Physics and Safety Lab. I work on LLM training using Meta-Llama-3-70B, Gemini and other open source LLMs to create a model to solve complex computational physics problems for physics research in academia. My team and I are working off of his previous findings [here](https://arxiv.org/abs/2312.02091).
+As an undergraduate research assistant I work under Prof. Kristen Menou on model fine-tuning in his AI Physics and Safety Lab. I work on LLM training using Meta-Llama-3-70B, Gemini and other open source LLMs to create a model to solve complex computational physics problems for physics research in academia. My team and I are working off of his previous findings [here](https://arxiv.org/abs/2312.02091). And check us out [here](http://individual.utoronto.ca/kmenou/index.html)!!
 
 Tech Stack: Python, NumPy, Pandas, PyTorch, TensorFlow, Hugging Face
 
