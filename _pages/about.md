@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🧠 2nd Year Computational Cognitive Science and Statistics Double Major at U of T 
+🧠 2nd Year Statistics student at U of T 
 
 📊 Looking for Summer/Fall/Winter internships in Data Science and Software Engineering
 
@@ -18,13 +18,15 @@ redirect_from:
 
 ## 🍁 Software Engineer Intern @ Government of Canada, Department of National Defence
 ### September 2024 - December 2024
-I haven't started yet!
+Backend Infra and Developer Tools
+
+Tech Stack: Python, Pulumi, Terraform, Ansible, Azure, Java, Spring Boot
 
 ## ✨ Undergraduate Research Assistant @ UofT Dept. of Physical and Environmental Sciences
-### April 2024 - August 2024
-As an undergraduate research assistant I work under Prof. Kristen Menou on model fine-tuning in his AI Physics and Safety Lab. I work on LLM training using Meta-Llama-3-70B, GPT-4 and other open source LLMs to create a model to solve complex computational physics problems for physics research in academia. We are working off of his previous findings [here](https://arxiv.org/abs/2312.02091).
+### May 2024 - August 2024
+As an undergraduate research assistant I work under Prof. Kristen Menou on model fine-tuning in his AI Physics and Safety Lab. I work on LLM training using Meta-Llama-3-70B, Gemini and other open source LLMs to create a model to solve complex computational physics problems for physics research in academia. My team and I are working off of his previous findings [here](https://arxiv.org/abs/2312.02091).
 
-Tech Stack: Python, NumPy, Pandas, Rebound, Hugging Face
+Tech Stack: Python, NumPy, Pandas, PyTorch, TensorFlow, Hugging Face
 
 ## 👨‍🏫 Student Instructor @ Stanford University
 ### April 2024 - May 2024
