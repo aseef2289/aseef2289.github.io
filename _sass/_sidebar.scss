@@ -80,18 +80,19 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;  // Reverted to the original width
-  height: 36px; // Set height to match width for a square avatar
+  width: 36px;
+  // set width only, for non-square avatars
+  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
-    width: auto; // Auto width for larger screens
+    width: auto;
     height: auto;
   }
 
   img {
-    max-width: 36px;  // Reverted to original size
-    border-radius: 0; // No border radius to make it a square (box)
+    max-width: 175px;
+    border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -99,7 +100,6 @@
     }
   }
 }
-
 
 .author__content {
   display: table-cell;
