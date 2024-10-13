@@ -80,19 +80,18 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 175px;  // Set width for square avatars
-  height: 175px; // Ensure height matches width for a perfect circle
+  width: 36px;  // Reverted to the original width
+  height: 36px; // Set height to match width for a square avatar
 
   @include breakpoint($large) {
     display: block;
-    width: 175px; // Keep width and height the same
-    height: 175px;
+    width: auto; // Auto width for larger screens
+    height: auto;
   }
 
   img {
-    width: 100%;   // Ensure image takes up full width of container
-    height: auto;  // Maintain aspect ratio for the image
-    border-radius: 50%; // Makes the image a perfect circle
+    max-width: 36px;  // Reverted to original size
+    border-radius: 0; // No border radius to make it a square (box)
 
     @include breakpoint($large) {
       padding: 5px;
