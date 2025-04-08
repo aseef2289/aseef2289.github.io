@@ -24,7 +24,7 @@ author:
   avatar           : "pfp49.jpg"
   name             : "Aseef Ali Hasan"
   pronouns         : # example: "she/her"  
-  bio              : "SWE, DS and ML enthusiast 😎"
+  bio              : # "SWE, DS and ML enthusiast 😎"
   location         : "Toronto, ON, Canada"
   employer         : "University of Toronto"
   uri              : #URL

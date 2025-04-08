@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🧠 2nd Year Statistics student at U of T 
+🧠 2nd Year Statistics and Computer Science student at U of T 
 
 📊 Looking for Summer/Fall/Winter internships in Data Science and Software Engineering
 
@@ -16,11 +16,15 @@ redirect_from:
 
 # Relevant Experience
 
+## 🚗 UberSTAR Software Engineer Intern @ Uber
+### May 2025 - August 2025
+Rider Trip Experience Team
+
 ## 🍁 Software Engineer Intern @ Government of Canada, Department of National Defence
 ### September 2024 - December 2024
 Backend Infra and Developer Tools
 
-Tech Stack: Python, Pulumi, Terraform, Ansible, Azure, Java, Spring Boot
+Tech Stack: Python, Pulumi, Ansible, Java, Spring Boot, Azure
 
 ## ✨ Undergraduate Research Assistant @ UofT Dept. of Physical and Environmental Sciences
 ### May 2024 - August 2024
