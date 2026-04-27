@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-🧠 2nd Year Statistics and Computer Science student at U of T 
+🧠 3rd Year Statistics and Computer Science student at U of T 
 
 📊 Looking for Summer/Fall/Winter internships in Data Science and Software Engineering
 
@@ -16,9 +16,14 @@ redirect_from:
 
 # Relevant Experience
 
+## 🚙 Software Engineer Intern @ Uber
+Earner Experience/Intelligence Team
+
 ## 🚗 UberSTAR Software Engineer Intern @ Uber
 ### May 2025 - August 2025
 Rider Trip Experience Team
+
+Tech Stack: Go, Kafka, Redis
 
 ## 🍁 Software Engineer Intern @ Government of Canada, Department of National Defence
 ### September 2024 - December 2024
